@@ -87,7 +87,7 @@ namespace Desafio_Target
 			//Questão Numero 1
 
 			Console.WriteLine("Executando Questão Número 1:\n");
-			ExecutaSoma();
+			ExecutaSoma();a
 
 			//Questão Numero 2
 
